@@ -1,7 +1,6 @@
-Gold (OG|GC) OG3Q6 (1.62 DTE) vs 4546.8 (+35.5) - Open Interest Change
+Gold (OG|GC) OG3Q6 (1.61 DTE) vs 4546.8 (+35.5) - Open Interest Change
 Put: 566  Call: 674  Vol: 26.74  Vol Chg: 0.17  Future Chg: 35.5
 Strike,Call,Put,Vol Settle
-4310,0,0,0.3419934495956056
 4315,0,2,0.3367004679714398
 4320,0,17,0.3316188500163264
 4325,0,6,0.3267457021955522
